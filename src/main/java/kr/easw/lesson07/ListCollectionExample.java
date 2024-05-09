@@ -9,6 +9,7 @@ import java.util.Scanner;
  *
  * 주석을 보고, 코드를 실행한 후 다음 문제를 해결해보세요.
  */
+//
 public class ListCollectionExample {
     // List 컬렉션은 배열과 비슷한 개념이지만, 배열과 달리 크기가 가변적입니다.
     // 배열은 고정된 크기를 선언하여 사용하지만, List 컬렉션은 요소가 추가될 때마다 크기가 자동으로 늘어납니다.
